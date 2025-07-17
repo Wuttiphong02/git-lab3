@@ -5,5 +5,5 @@
 
  echo"Home";
  echo "Map";
- echo "About Me";
+ echo "About me";
 ?>
